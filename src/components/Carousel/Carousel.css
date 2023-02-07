@@ -1,0 +1,29 @@
+.button-hero {
+  width: 165px;
+  height: 44px;
+  border: 1px solid #74CDFF;
+  border-radius: 100px;
+  background-color: #74CDFF;
+  color: #0C0E18;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+}
+
+.hero {
+  height: 808px;
+}
+
+@media screen and (min-width: 480px) {
+  .hero{
+    /* margin-top: 0px; */
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .hero{
+    /* margin-top: -114px; */
+  }
+}

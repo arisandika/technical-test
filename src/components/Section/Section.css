@@ -1,0 +1,21 @@
+/* 
+
+@media screen and (min-width: 480px) {
+  .section {
+    height: 614px;
+  }
+  
+  .section-2 {
+    height: 473px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .section {
+    height: 614px;
+  }
+  
+  .section-2 {
+    height: 473px;
+  }
+} */

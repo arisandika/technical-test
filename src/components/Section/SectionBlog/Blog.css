@@ -1,0 +1,28 @@
+/* 
+
+@media screen and (min-width: 390px) {
+  .grid {
+    height: 624px;
+  }
+  .col{
+    width: 313px;
+    height: 200px;
+  }
+
+  .tes{
+    width: 129px;
+    height: 129px;
+  }
+
+}
+
+@media screen and (min-width: 1024px) {
+  .grid {
+    height: 289px;
+  }
+  
+  .col {
+    width: 313px;
+    height: 289px
+  }
+} */

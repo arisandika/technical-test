@@ -1,0 +1,13 @@
+.button-promo {
+  width: 215px;
+  height: 30px;
+  border: 1px solid #74CDFF;
+  border-radius: 100px;
+  background-color: #74CDFF;
+  color: #0C0E18;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+}
